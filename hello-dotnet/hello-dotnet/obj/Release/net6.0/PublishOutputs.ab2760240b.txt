@@ -1,5 +1,0 @@
-C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.exe
-C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.dll
-C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.deps.json
-C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.runtimeconfig.json
-C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.pdb
