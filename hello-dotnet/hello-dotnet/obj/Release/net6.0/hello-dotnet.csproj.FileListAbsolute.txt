@@ -1,0 +1,15 @@
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.exe
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.deps.json
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.runtimeconfig.json
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.dll
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.pdb
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.csproj.AssemblyReference.cache
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.AssemblyInfoInputs.cache
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.AssemblyInfo.cs
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.dll
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\refint\hello-dotnet.dll
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.pdb
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.genruntimeconfig.cache
+C:\Users\semen\RiderProjects\koi\hello-dotnet\hello-dotnet\obj\Release\net6.0\ref\hello-dotnet.dll
